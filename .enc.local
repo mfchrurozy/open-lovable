@@ -1,20 +1,20 @@
 # =================================================================
 # REQUIRED
 # =================================================================
-FIRECRAWL_API_KEY=fc-db0a8fb74f6a459084e057d965357c3a    # https://firecrawl.dev
+FIRECRAWL_API_KEY=fc-0b9ff50491a743309334cc82b724581e    # https://firecrawl.dev
 
 # =================================================================
 # AI PROVIDER - Choose your LLM
 # =================================================================
 GEMINI_API_KEY=AIzaSyCkDp8Pzf6Ik-g5Uu0ZKOYOsQPxJJjWE1E        # https://aistudio.google.com/app/apikey
 ANTHROPIC_API_KEY=your_anthropic_api_key  # https://console.anthropic.com
-OPENAI_API_KEY=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        # https://platform.openai.com
-GROQ_API_KEY=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            # https://console.groq.com
+OPENAI_API_KEY=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        # https://platform.openai.com
+GROQ_API_KEY=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            # https://console.groq.com
 
 # =================================================================
 # FAST APPLY (Optional - for faster edits)
 # =================================================================
-MORPH_API_KEY=your_morphllm_api_key    # https://morphllm.com/dashboard
+MORPH_API_KEY=sk-sG3ZA632Wq3g_Nd48yeKdrcvOwXLMUD27JoFJTxi81x447HG    # https://morphllm.com/dashboard
 
 # =================================================================
 # SANDBOX PROVIDER - Choose ONE: Vercel (default) or E2B
@@ -34,4 +34,4 @@ VERCEL_OIDC_TOKEN=auto_generated_by_vercel_env_pull
 # VERCEL_TOKEN=vercel_xxxxxxxxxxxx   # Personal access token from Vercel dashboard
 
 # Option 2: E2B Sandbox
-# E2B_API_KEY=e2b_e0c8815dbe95eeac24191daf8f4d3709ac11000e      # https://e2b.dev
+# E2B_API_KEY=e2b_9513998fb26d89dab2bd0f3e555216711453be1a      # https://e2b.dev
