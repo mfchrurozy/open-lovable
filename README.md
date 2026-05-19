@@ -8,7 +8,7 @@ Chat with AI to build React apps instantly. An example app made by the [Firecraw
 
 1. **Clone & Install**
 ```bash
-git clone https://github.com/firecrawl/open-lovable.git
+git clone https://github.com/mfchrurozy/open-lovable.git
 cd open-lovable
 pnpm install  # or npm install / yarn install
 ```
